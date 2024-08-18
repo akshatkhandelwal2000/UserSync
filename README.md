@@ -1,6 +1,6 @@
 ## UserSync
 
-![UserSync is an User Management System built using Java, Spring Boot, MySQL, React](https://via.placeholder.com/300x50.png?text=UserSync+is+an+User+Management+System+built+using+Java%2C+Spring+Boot%2C+MySQL%2C+React&bg=ffffff&fg=0000ff)
+#### **UserSync is an User Management System built using Java, Spring Boot, MySQL, React.**
 
 
 ## Features
