@@ -8,7 +8,7 @@
 
 <ul>
 <li>Admin Dashboard</li>
-<li>User Registrationr</li>
+<li>User Registration</li>
 <li>User Authentication</li>
 <li>Role-Based Access Control (RBAC)</li>
 <li>User Profile Management</li>
